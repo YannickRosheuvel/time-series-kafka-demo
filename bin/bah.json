@@ -1,0 +1,50 @@
+{
+    "userData":{
+      "name": "Bella Beer",
+      "roomNumber": "001"
+    },
+    "contractionData":{
+        "0":{
+        "id": "Contractions",
+        "data": [
+          {
+            "x": "14:01:00",
+            "y": 19
+          }
+        ]
+      }
+    },
+    "oxygenData":{
+      "1":{
+        "id": "Oxygen Sat",
+        "data": [
+          {
+            "x": "14:01:00",
+            "y": 47
+          }
+
+        ]
+      }
+    },
+    "heartRateData":{
+      "2":{
+        "id": "Mother Heartrate",
+        "data": [
+          {
+            "x": "14:01:00",
+            "y": 68
+          }
+        ]
+      },
+      "3":{
+        "id": "Baby Heartrate",
+        "data": [
+         
+          {
+            "x": "14:48:00",
+            "y": 137
+          }
+        ]
+      }
+    }
+    }
